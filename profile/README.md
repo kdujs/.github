@@ -5,4 +5,4 @@
   </a>
 </p>
 
-<p align="center">Kdu.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.</p>
+<p align="center"><b>Kdu.js</b> is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.</p>
